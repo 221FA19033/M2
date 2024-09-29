@@ -30,7 +30,7 @@ button:hover {
 
 
 .recipe {
-    background-color: white;
+    background-color:aqua;
     border: 1px solid #ddd;
     border-radius: 10px;
     margin: 15px;
@@ -52,7 +52,7 @@ button:hover {
 }
 
 .recipe h3 {
-    color: #00acc1; 
+    color: red; 
     margin-bottom: 10px;
 }
 
@@ -64,7 +64,7 @@ button:hover {
 a.viewRecipeBtn {
     display: block;
     padding: 10px;
-    background-color: #00796b; 
+    background-color: violet; 
     color: white;
     text-align: center;
     text-decoration: none;
@@ -74,13 +74,13 @@ a.viewRecipeBtn {
 }
 
 a.viewRecipeBtn:hover {
-    background-color: #004d40; /* Darker teal on hover */
+    background-color: brown
 }
 
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #00acc1;
+    background-color:sandybrown;
     color: white;
     position: relative;
     bottom: 0;
